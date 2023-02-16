@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-           
+            CheckTest.TextMessage("Task 2 checked");
         }
     }
 }
